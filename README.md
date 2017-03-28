@@ -11,3 +11,7 @@
 
 - Ajouter un bouton RESET
 - faire coller les débris avec une animation (animate)
+
+## Exemple :
+
+![alt tag](https://github.com/SimplonAuch/Electroaimant/blob/master/illustration.pngg)

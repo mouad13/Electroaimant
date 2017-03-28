@@ -14,4 +14,4 @@
 
 ## Exemple :
 
-![alt tag](https://github.com/SimplonAuch/Electroaimant/blob/master/illustration.pngg)
+![alt tag](https://github.com/SimplonAuch/Electroaimant/blob/master/illustration.png)

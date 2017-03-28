@@ -25,3 +25,4 @@
 ## Exemple :
 
 ![alt tag](https://github.com/SimplonAuch/Electroaimant/blob/master/illustration.png)
+![alt tag](https://github.com/SimplonAuch/Electroaimant/blob/master/illustration2.png)

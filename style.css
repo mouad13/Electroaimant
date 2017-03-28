@@ -1,0 +1,19 @@
+
+#jeu {
+	width: 500px;
+	height: 500px;
+	position: relative;
+	border: 1px red solid;
+	cursor: url(balai.png) 40 40, auto;
+
+}
+
+
+.debris {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	background-color: black;
+	opacity: 0.25;
+	border-radius: 5px;
+}

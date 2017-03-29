@@ -18,8 +18,8 @@ $( document ).ready(function() {
 		for(var i = 0; i < n ; i++){
 			//avec un chiffre aleatoir entre 0 et 1 en multipliant par width
 			//j'obtient une valeur aleatoire entre 0 et width (500)
-			var xpos = Math.round(Math.random()*width);
-			var ypos = Math.round(Math.random()*height);
+			var xpos = Math.round(Math.random()*(width -20));
+			var ypos = Math.round(Math.random()*(height - 20));
 
 			console.log(xpos);
 			console.log(ypos);
@@ -36,3 +36,12 @@ $( document ).ready(function() {
 	createPoint(100);
 
 });
+
+
+
+
+
+
+
+
+
